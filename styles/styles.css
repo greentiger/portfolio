@@ -1,14 +1,15 @@
 html{
     background-image: url(../img/greentiger.jpg);
     background-size: cover;
+    font-size: 16px;
 }
 
 h1{
     color: rgb(194, 206, 24);
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 p{
-    color: rgb(194, 206, 24);
-    font-size: 20px;
+    color: rgb(230, 245, 17);
+    font-size: 1.6rem;
 }
