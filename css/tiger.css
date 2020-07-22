@@ -14,9 +14,9 @@ width: 20%;
 float:left;
 }
     
-.blogside{ /* as right side */:;
-    width:70%;
-    float:right;
+.blogside{ /* as right side */
+    width: 70%;
+    float: right;
     margin: 10px;
     /*border: black 1px solid;*/
     padding: 5px;
@@ -31,7 +31,7 @@ float:left;
     font-size: 20px;
 }
 
-h3{
+h2{
     color: yellow;
 }
 
@@ -41,7 +41,7 @@ b{
 
 p{
     color: yellow;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
 }
 
