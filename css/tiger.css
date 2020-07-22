@@ -20,7 +20,7 @@ float:left;
     margin: 10px;
     /*border: black 1px solid;*/
     padding: 5px;
-    background-color: skyblue;
+    background-color: rgba(20, 128, 104, 0.05);;
 }
 
 #tigers_facts{
@@ -37,6 +37,7 @@ h2{
 
 b{
     color: yellow;
+    font-size: 22px;
 }
 
 p{
@@ -46,7 +47,7 @@ p{
 }
 
 a{
-    color: gold;
+    color: rgb(255,127,80);
     text-decoration:none;
     font-size: 20px;
     font-weight: bolder;
