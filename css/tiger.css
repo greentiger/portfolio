@@ -1,0 +1,55 @@
+body {
+    /*background-color:#217c59;*/
+    background-image: url(../img/greentiger_skin.jpg);
+    background-size: 100%;
+    margin:5px;
+    
+}
+
+.navlinks{ /* as left side */
+position: fixed;
+padding: 5px;
+height:100%;
+width: 20%;
+float:left;
+}
+    
+.blogside{ /* as right side */:;
+    width:70%;
+    float:right;
+    margin: 10px;
+    border: black 1px solid;
+    padding: 5px;
+    background-color: skyblue;
+}
+
+#tigers_facts{
+    /*background-color:#2baf6d;*/
+    background-color:rgba(20, 128, 104, 0.5);
+    /*background-image: url(../img/greentiger_skin.jpg);*/
+    /*background-size: 100%;*/
+    font-size: 20px;
+}
+
+h3{
+    color: yellow;
+}
+
+b{
+    color: yellow;
+}
+
+p{
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    font-size: 22px;
+}
+
+a{
+    color: orange;
+    text-decoration:none;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
